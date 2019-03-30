@@ -1,5 +1,5 @@
 # Horoscope App
-**Designed for people interested in New York tourism, this app allows users to scroll through a list of museums that when clicked takes them to a screen with Google Maps where they are able to see the museum location.**
+**Designed for people interested in horoscopes or astrology, this app allows users to scroll through a list of zodiac signs that when clicked takes them to another screen where they can get their daily horoscope.**
 
 
 Horoscope Home            |  Display Horoscope Info
