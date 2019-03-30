@@ -30,9 +30,9 @@ public class ZodiacViewHolder extends RecyclerView.ViewHolder {
         cardViewClickListener(zodiac);
     }
 
-    private void setViews(final Zodiac object){
-        zodiacName.setText(object.getName());
-        zodiacNumber.setText(object.getNumber());
+    private void setViews(final Zodiac zodiac){
+        zodiacName.setText(zodiac.getName());
+        zodiacNumber.setText(zodiac.getNumber());
     }
 
     private void cardViewClickListener(final Zodiac object){
